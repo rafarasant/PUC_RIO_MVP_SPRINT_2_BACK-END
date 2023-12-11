@@ -31,8 +31,7 @@ prediction = modelo.predict(X)
 
 class Dataset:
 
-    # def getNoe() -> int:
-    def getNoe():
+    def getNoe() -> int:
         """Verifica o número total de elementos(noe)
         registados no dataset.
         """
@@ -40,8 +39,7 @@ class Dataset:
         get_noe = len(X)
         return get_noe
 
-    # def getPop() -> float:
-    def getPop():
+    def getPop() -> float:
         """Verifica o percentual de resultados (outcomes)
         positivos registrados no dataset. Isto é, quando 
         o valor de 'outcome' == 1.
@@ -60,32 +58,28 @@ class Dataset:
 
 class TestModel:
 
-    # def get_acc() -> float:
-    def get_acc():
+    def get_acc() -> float:
         """Verifica o valor da acurácia do model.
         """
 
         accuracy = accuracy_score(Y, prediction)
         return accuracy
     
-    # def get_recall() -> float:
-    def get_recall():
+    def get_recall() -> float:
         """Verifica o valor de 'recall' do model.
         """
 
         recall = recall_score(Y, prediction, average='binary')
         return recall
     
-    # def get_precision() -> float:
-    def get_precision():
+    def get_precision() -> float:
         """Verifica o valor de precisão do model.
         """
 
         precision = precision_score(Y, prediction, average='binary')
         return precision
 
-    # def f1_score() -> float:
-    def f1_score():          
+    def f1_score() -> float:
         """Verifica o valor de "f1_score" do model.
         """
         
