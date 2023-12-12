@@ -17,7 +17,7 @@ das rotas POST ou GET, onde o valor do resultado constará no parâmetro *outcom
 
 Para maiores detalhes, leia os tópicos a seguir.
 
->Observação: no último tópico deste arquivo (tópico 8), deixo o link para um vídeo contendo a apresentação do meu projeto.
+>Observação: no último tópico deste arquivo (tópico 8), deixo os links (Google Drive e YouTube) para um vídeo contendo a apresentação do meu projeto.
 
 Este projeto foi desenvolvido para o MVP da Sprint 2 da **Pós Gradução de Engenharia de Softwarer da PUC-Rio**. 
 <br>
