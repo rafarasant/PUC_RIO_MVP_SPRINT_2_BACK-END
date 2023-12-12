@@ -17,6 +17,8 @@ das rotas POST ou GET, onde o valor do resultado constará no parâmetro *outcom
 
 Para maiores detalhes, leia os tópicos a seguir.
 
+>Observação: no último tópico deste arquivo (tópico 8), deixo o link para um vídeo contendo a apresentação do meu projeto.
+
 Este projeto foi desenvolvido para o MVP da Sprint 2 da **Pós Gradução de Engenharia de Softwarer da PUC-Rio**. 
 <br>
 ---
@@ -101,4 +103,17 @@ Para a execução do teste, abra o terminal e, no diretório raíz, execute o se
 
 ```
 pytest test_model.py
+```
+
+
+### 8 - Vídeo de apresentação do projeto
+
+O vídeo contendo a apresentação do meu projeto pode ser acessado através de um dos seguintes links:
+
+```
+https://drive.google.com/drive/folders/1tGbvZtc1ywzQEW6oITPLeeXdHnEohV8V?usp=drive_link
+```
+
+```
+https://youtu.be/iKXd2Xm7F-Q
 ```
