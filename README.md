@@ -97,7 +97,7 @@ pacientes cadastrados no banco de dados.
 
 No presente repositório, ainda estão presentes os dois arquivos referentes ao teste do modelo de aprendizagem de máquina e do *dataset*. No arquivo *main_test_model.py* se encontram as funções principais do teste, as quais estatipulam como devem ser calculadas as métricas usadas na avaliação do *modelo* e do *dataset* escolhidos. Por exemplo, a função *get_acc()* prevê o cálculo a acurácia do modelo empregado. Já no arquivo *test_model.py* estão as funções que possuem o comando *assert*, para verificar se as métricas, umas vez calculadas, possuem o valor esperado.
 
-Para a execução do teste, abra o terminal e, na pasta raíz, execute o seguinte comando:
+Para a execução do teste, abra o terminal e, no diretório raíz, execute o seguinte comando:
 
 ```
 pytest test_model.py
